@@ -5,6 +5,14 @@ CandidateHub is a full-stack web application that allows candidates to create ac
 
 The application uses React for the frontend, Python FastAPI for the backend, and PostgreSQL for database management.
 
+## Live Demo
+
+https://candidate-hub-umber.vercel.app/
+
+## GitHub Repository
+
+https://github.com/AfreenTaj12/candidate-hub
+
 ## Project Objectives
 
 - Provide candidate registration and login.
